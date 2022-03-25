@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&align=center&theme=tokyonight)
 
 <div align="center">
-<a href="https://github.com/FloofyJin" align="center">
+<a href="https://github.com/FloofyJin">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&align=center&theme=tokyonight" />
 </a>
 </div>
