@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/FloofyJin">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&align=center&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&align=center&theme=tokyonight" />
   </a>
 </div>
 
