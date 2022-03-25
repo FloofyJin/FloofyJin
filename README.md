@@ -11,7 +11,7 @@
   </a>
 </div>
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=FloofyJin&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=FloofyJin&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
