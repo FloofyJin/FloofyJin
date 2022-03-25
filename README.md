@@ -15,10 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&theme=vision-friendly-dark)]
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FloofyJin&repo=github-readme-stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&theme=vision-friendly-dark" />
-
 <!--
 **FloofyJin/FloofyJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
