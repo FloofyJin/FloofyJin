@@ -15,9 +15,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&align=center&theme=tokyonight)
 
+<div align="center">
 <a href="https://github.com/FloofyJin" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&align=center&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloofyJin&layout=compact&align=center&theme=tokyonight" />
 </a>
+</div>
 
 <!--
 **FloofyJin/FloofyJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
