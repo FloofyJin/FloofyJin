@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://floofyjin.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Jinsung-%20-%20?style=for-the-badge&logo=appveyor" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Jinsung-%20-%20?style=for-the-badge" alt="portfolio Badge"/>
   </a>
 </div>
 
